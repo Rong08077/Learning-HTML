@@ -1,0 +1,53 @@
+/* css reset */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0 auto;
+	font-size: 12px;
+	font-family: "Microsoft YaHei";
+	color: #767777;
+	background-color: #44565C;
+}
+
+.container {
+	width: 892px;
+	height: 1386px;
+	margin: 0 auto;
+	padding: 0 44px;
+	background-color: #ffffff;
+}
+
+header {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+header .ife_url {
+	position: relative;
+	width: 110px;
+	height: 61px;
+	background-color: #db3e75;
+}
+
+header .ife_url p {
+	position: absolute;
+	bottom: 2px;
+	margin-left: 4px;
+	color:#fff;
+}
+
+header .date {
+	position: absolute;
+	right: 0px;
+	bottom: 5px;
+	font-family: "SimHei";
+	color:#d45d5c;
+}
+
+.underline_one {
+	margin-top: 0;
+	border: 2px #938e8c solid;
+}
