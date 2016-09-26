@@ -3,11 +3,13 @@
     min-width: 1280px;
     font-family: 'Microsoft YaHei';
 }
+
 header {
     width: 100%;
     height: 60px;
     font-size: 0;
 }
+
 header .banner-left {
     position: relative;
     left: 7%;
@@ -20,6 +22,7 @@ header .banner-left {
     background: url(../imgs/icon-1.png) no-repeat left;
     background-size: 16% 50%;
 }
+
 header .banner-left h1 {
     margin: 0;
     font-size: 24px;
@@ -27,6 +30,7 @@ header .banner-left h1 {
     color: #4E3A4F;
     cursor: default;
 }
+
 header nav {
     position: relative;
     left: 40%;
@@ -35,6 +39,7 @@ header nav {
     display: inline-block;
     vertical-align: middle;
 }
+
 header nav ul {
     margin: 0;
     padding: 0;
@@ -44,6 +49,7 @@ header nav ul {
     line-height: 60px;
     list-style: none;
 }
+
 header nav ul li {
     display: inline-block;
     box-sizing: border-box;
@@ -56,9 +62,11 @@ header nav ul li {
     -moz-transition:color 0.4s ease-in-out;
     transition:color 0.4s ease-in-out;
 }
+
 header nav ul li:hover {
     color: #F04C57;
 }
+
 header nav ul .move {
     position: absolute;
     border-top: 4px solid #E53C3C;
@@ -68,21 +76,27 @@ header nav ul .move {
     -moz-transition: left 0.4s ease-in-out;
     transition: left 0.4s ease-in-out;
 }
+
 header nav ul li:nth-child(1):hover~.move {
     left: 0;
 }
+
 header nav ul li:nth-child(2):hover~.move {
     left: 20%;
 }
+
 header nav ul li:nth-child(3):hover~.move {
     left: 40%;
 }
+
 header nav ul li:nth-child(4):hover~.move {
     left: 60%;
 }
+
 header nav ul li:nth-child(5):hover~.move {
     left: 80%;
 }
+
 header .banner-right {
     position: relative;
     left: 50%;
@@ -98,6 +112,7 @@ header .banner-right {
     background: url(../imgs/icon-2.jpg) no-repeat left;
     background-size: 15px 18px;
 }
+
 header .banner-right .move {
     position: absolute;
     top: 45px;
@@ -108,9 +123,11 @@ header .banner-right .move {
     -moz-transition:width 0.4s ease-in-out;
     transition:width 0.4s ease-in-out;
 }
+
 header .banner-right:hover .move {
     width: 50px;
 }
+
 /*  #section-1 */
 #section-1 {
     width: 100%;
@@ -119,25 +136,30 @@ header .banner-right:hover .move {
     background-image: url(../imgs/pic01.jpg);
     background-size: 100% auto;
 }
+
 #section-1 .mes {
     position: absolute;
     top: 270px;
     left: 120px;
 }
+
 #section-1 .mes p {
     margin: 0;
     font-size: 22px;
     color: #fff;
 }
+
 #section-1 .mes p:first-child{
     font-family: Arial;
     font-size: 60px;
     margin-bottom: 20px;
     letter-spacing: 3px;
 }
+
 #section-1 .mes p:last-of-type {
     margin-bottom: 60px;
 }
+
 #section-1 .mes span {
     width: 300px;
     height: 60px;
@@ -152,7 +174,75 @@ header .banner-right:hover .move {
     -moz-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
 }
+
 #section-1 .mes span:hover{
     background: #E31212;
     border-radius: 3px;
 }
+/* section-2 */
+#section-2 {
+    width: 100%;
+    height: 240px;
+    font-size: 0;
+}
+
+#section-2 .cell {
+    position: relative;
+    width: 25%;
+    display: inline-block;
+    top: 0;
+}
+
+#section-2 .cell .img {
+    width: 100%;
+    height: 130px;
+    display: inline-block;
+    line-height: 130px;
+    text-align: center;
+}
+
+#section-2 .cell .img img {
+    position: relative;
+    top: 30px;
+}
+
+#section-2 .cell .mes {
+    width: 100%;
+    height: 50px;
+    font-size: 13px;
+    color: #534141;
+    text-align: center;
+    box-sizing: border-box;
+    border-right: 2px solid #534141;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+
+#section-2 .cell:hover .mes {
+    color: #BE4F48;
+}
+
+#section-2 .cell:last-child .mes {
+    border:none;
+}
+
+/* section-3 */
+#section-3 {
+    width: 100%;
+    height: 400px;
+    background: #EDEAEA;
+    text-align: center;
+}
+#section-3 .img {
+    position: relative;
+    top: 80px;
+}
+#section-3 .mes {
+    position: relative;
+    top: 100px;
+    font-size: 50px;
+    color: #534141;
+}    
+
+
