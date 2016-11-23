@@ -1,0 +1,51 @@
+@height:50px;
+@pdValue:10px;
+@bgColor:#eee;
+@bdColor:#999;
+@bdWidth:1px;
+
+//reset css style
+.resetCSS() {
+  margin:0;
+  padding:0;
+}
+
+//clear float
+.clearFix() {
+  content:"";
+  display:table;
+  clear:both;
+}
+//inner style
+.innerStyle() {
+  height:@height;
+  background-color:@bgColor;
+  border:@bdWidth solid @bdColor;
+}
+//outer style
+.outerStyle() {
+  box-sizing:border-box;
+  float: left;
+  padding:@pdValue;
+}
+
+//style part
+html,body{
+  .resetCSS;
+}
+.wrapper{
+  box-sizing:border-box;
+  width:100%;
+  padding:10px;
+}
+.wrapper:before,.wrapper:after{
+  .clearFix;
+}
+.outer{
+  .outerStyle;
+}
+.inner{
+  .innerStyle;
+}
+
+
