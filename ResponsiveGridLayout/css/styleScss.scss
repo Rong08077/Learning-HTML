@@ -4,7 +4,7 @@ $pdValue:10px;
 $bgColor:#eee;
 $bdColor:#999;
 $bdWidth:1px;
-//reset css style
+//reset css css
 @mixin resetCSS{
   margin:0;
   padding:0;
@@ -15,13 +15,13 @@ $bdWidth:1px;
   display:table;
   clear:both;
 }
-//inner style
+//inner css
 @mixin innerStyle{
   height:$height;
   background-color:$bgColor;
   border:$bdWidth solid $bdColor;
 }
-//outer style
+//outer css
 @mixin outerStyle{
   box-sizing:border-box;
   float: left;
@@ -44,7 +44,7 @@ $bdWidth:1px;
   }
 }
 
-//style part
+//css part
 html,body{
   @include resetCSS;
 }
