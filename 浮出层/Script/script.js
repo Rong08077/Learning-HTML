@@ -1,3 +1,10 @@
-/**
- * Created by lenovo on 2017/1/16.
- */
+
+function $(el) {
+	return document.getElementById(el);
+}
+
+
+
+window.onload = window.onresize = function () {
+
+}
