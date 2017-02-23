@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>todo</title>
+    <!-- build:css css/combined.css -->
+    <link rel="stylesheet" href="node_modules/normalize.css">
+    <link rel="stylesheet" href="node_modules/jquery-datetimepicker/build/jquery.datetimepicker.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- endbuild -->
+</head>
+<body>
+<div class="msg">
+    <span class="msg-content"></span>
+    <span class="anchor confirmed">知道了</span>
+</div>
+<div class="container">
+    <h1>Todo</h1>
+    <form class="add-task">
+        <input name="content" type="text" placeholder="e.g. 晚上7:30 开始撸代码" autocomplete="off" maxlength="17" >
+        <button type="submit">提交</button>
+    </form>
+    <div class="task-list">
+
+    </div>
+    <div class="task-detail-mask">
+
+    </div>
+    <div class="task-detail">
+        <!--
+        <form xmlns="http://www.w3.org/1999/html">
+            <div class="content">学习编程</div>
+            <div class="input-item">
+                <input style="display: none;" maxlength="17" type="text" name="content" value="学习编程">
+            </div>
+            <div class="input-item">
+                <div class="desc">
+                    <textarea name="desc">textarea</textarea>
+                </div>
+            </div>
+            <div class="remind input-item">
+                <label>提醒时间</label>
+                <input class="datetime" name="remind_date" value="2017/02/12 22:00" type="date">
+            </div>
+            <div class="input-item">
+                <button type="submit">更新</button>
+                <input class="detail-cancel" value="返回" type="button">
+            </div>
+        </form>
+        -->
+    </div>
+    <video src="alert.mp3" class="alert"></video>
+</div>
+<!-- build:js js/combined.js -->
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="node_modules/store/store.min.js"></script>
+<script src="node_modules/jquery-datetimepicker/build/jquery.datetimepicker.full.min.js"></script>
+<script src="node_modules/jquery-datetimepicker/build/jquery.datetimepicker.min.js"></script>
+<script src="js/main.js"></script>
+<!-- endbuild -->
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Html5",
+    "jQuery"
+  ],
+  "author": "Rong08077",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-datetimepicker": "^2.5.4",
+    "normalize.css": "^5.0.0",
+    "store": "^1.3.20"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
