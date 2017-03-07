@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d1e606d-38b1-42f6-b4e1-6c127ec8f317" name="Default" comment="todo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/font/fontello.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/font/fontello.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/font/fontello.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/font/fontello.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/css/fontello.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/font/fontello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/Main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/collections/todos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/backbone/localstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/jquery/jquery-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/require/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/require/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/libs/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/models/Todo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/templates/markalldone.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/templates/stats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/templates/todos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/views/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/js/views/todos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/css/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo-WebApp/index.html" afterPath="$PROJECT_DIR$/Todo-WebApp/index.html" />
     </list>
     <ignored path="Learning-HTML.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Todo-WebApp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -78,7 +57,7 @@
       <file leaf-file-name="todos.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/collections/todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="352">
               <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding />
             </state>
@@ -88,7 +67,7 @@
       <file leaf-file-name="todos.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/views/todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="1540">
               <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
               <folding />
             </state>
@@ -98,14 +77,14 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/views/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
+            <state relative-caret-position="770">
               <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -247,8 +226,8 @@
         <option value="$PROJECT_DIR$/Todo-WebApp/js/collections/todos.js" />
         <option value="$PROJECT_DIR$/Todo-WebApp/js/views/todos.js" />
         <option value="$PROJECT_DIR$/Todo-WebApp/js/views/app.js" />
-        <option value="$PROJECT_DIR$/Todo-WebApp/index.html" />
         <option value="$PROJECT_DIR$/Todo-WebApp/js/templates/todos.html" />
+        <option value="$PROJECT_DIR$/Todo-WebApp/index.html" />
       </list>
     </option>
   </component>
@@ -283,8 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,12 +288,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning-HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning-HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Todo-WebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning-HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning-HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Todo-WebApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EBookCode/FLjQuery" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Todo-WebApp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
@@ -466,7 +481,8 @@
       <workItem from="1488458832492" duration="4671000" />
       <workItem from="1488589164857" duration="22927000" />
       <workItem from="1488678858276" duration="11879000" />
-      <workItem from="1488891539401" duration="5999000" />
+      <workItem from="1488891539401" duration="6415000" />
+      <workItem from="1488899866112" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1479308953513</created>
@@ -517,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487860116439</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="todo">
+      <created>1488899198997</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1488899198997</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219812000" />
+    <option name="totallyTimeSpent" value="221365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -715,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="1199" column="6" lean-forward="false" selection-start-line="1199" selection-start-column="6" selection-end-line="1199" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="582" column="4" lean-forward="false" selection-start-line="582" selection-start-column="4" selection-end-line="582" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="1170" column="0" lean-forward="false" selection-start-line="1170" selection-start-column="0" selection-end-line="1170" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/collections/todos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="352">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding />
         </state>
@@ -798,16 +818,6 @@
         <state relative-caret-position="154">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Todo-WebApp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,7 +839,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/views/todos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="1540">
           <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
           <folding />
         </state>
@@ -837,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/views/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="770">
           <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="43" />
           <folding />
         </state>
@@ -848,6 +858,16 @@
         <state relative-caret-position="352">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-WebApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
