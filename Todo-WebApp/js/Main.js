@@ -12,5 +12,3 @@ require(['views/app'],function (AppView) {
     'use strict';
     var app_view = new AppView();
 });
-
-
