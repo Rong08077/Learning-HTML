@@ -4,10 +4,25 @@
     <bookmark url="file://$PROJECT_DIR$/浮出层/css/style.css" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d1e606d-38b1-42f6-b4e1-6c127ec8f317" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Todo-WebApp/testNode.js" />
+    <list default="true" id="6d1e606d-38b1-42f6-b4e1-6c127ec8f317" name="Default" comment="update">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/chrome-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/chrome-logo-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/chrome-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/firefox-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/firefox-logo-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/firefox-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/ie-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/ie-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/opera-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/opera-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/safari-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/safari-logo-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/img/safari-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapDemo/jquery-3.1.0.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo-WebApp/js/Main.js" afterPath="$PROJECT_DIR$/Todo-WebApp/js/Main.js" />
     </list>
     <ignored path="Learning-HTML.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,23 +45,45 @@
     <favorites_list name="Learning-HTML" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Todo-WebApp/js/main.js">
+    <leaf>
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BootstrapDemo/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="-4791">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testNode.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Todo-WebApp/testNode.js">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapDemo/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapDemo/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-3.1.0.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootstrapDemo/jquery-3.1.0.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1914">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +103,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>primary</find>
-      <find>input-item</find>
       <find>button</find>
       <find>anchor</find>
       <find>task-content</find>
@@ -84,7 +119,6 @@
       <find>update_task</find>
       <find>render_task_detail</find>
       <find>msg</find>
-      <find>dfd</find>
       <find>confirmed</find>
       <find>createOnEnter</find>
       <find>render</find>
@@ -96,6 +130,9 @@
       <find>todo-content</find>
       <find>content</find>
       <find>ui-tooltip-top</find>
+      <find>pro</find>
+      <find>promise</find>
+      <find>dfd</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ResponsiveGridLayout/css/styleScss.scss" />
         <option value="$PROJECT_DIR$/ResponsiveGridLayout/index.html" />
         <option value="$PROJECT_DIR$/ResponsiveGridLayout/css/style.less" />
         <option value="$PROJECT_DIR$/浮出层/Style/reset.scss" />
@@ -115,7 +151,6 @@
         <option value="$PROJECT_DIR$/浮出层/Script/script.js" />
         <option value="$PROJECT_DIR$/Todo-App/js/main.css" />
         <option value="$PROJECT_DIR$/Todo-App/css/style.css" />
-        <option value="$PROJECT_DIR$/Todo-App/js/main.js" />
         <option value="$PROJECT_DIR$/Todo-App/package.json" />
         <option value="$PROJECT_DIR$/Todo-App/dist/index.html" />
         <option value="$PROJECT_DIR$/Todo-App/index.html" />
@@ -155,6 +190,8 @@
         <option value="$PROJECT_DIR$/Todo-WebApp/test.md" />
         <option value="$PROJECT_DIR$/Todo-WebApp/js/main.js" />
         <option value="$PROJECT_DIR$/Todo-WebApp/testNode.js" />
+        <option value="$PROJECT_DIR$/Todo-App/js/main.js" />
+        <option value="$PROJECT_DIR$/BootstrapDemo/demo.html" />
       </list>
     </option>
   </component>
@@ -169,10 +206,10 @@
     <handled-path value="$PROJECT_DIR$/Todo-WebApp/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -228,7 +265,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Todo-WebApp" />
+              <option name="myItemId" value="BootstrapDemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,7 +430,13 @@
       <workItem from="1489218304622" duration="1767000" />
       <workItem from="1489237723659" duration="1439000" />
       <workItem from="1489304077452" duration="911000" />
-      <workItem from="1489305127804" duration="1638000" />
+      <workItem from="1489305127804" duration="2467000" />
+      <workItem from="1490796527581" duration="976000" />
+      <workItem from="1490969481743" duration="486000" />
+      <workItem from="1491045867702" duration="2994000" />
+      <workItem from="1491111768204" duration="1555000" />
+      <workItem from="1491114437435" duration="56000" />
+      <workItem from="1492696481745" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1479308953513</created>
@@ -458,11 +501,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488901027956</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1489306786490</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489306786490</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228121000" />
+    <option name="totallyTimeSpent" value="236178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,25 +524,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18303572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18303572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33224222" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,28 +573,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/node_modules/backbone/backbone.js" />
-    <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/index.html" />
-    <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/models/Todo.js" />
     <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/collections/TodoCollection.js" />
     <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/views/TodoView.js" />
     <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/views/AppView.js" />
     <entry file="file://$PROJECT_DIR$/Todo-Backbone-App/js/Roters/Roter.js" />
-    <entry file="file://$PROJECT_DIR$/Todo-App/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Todo-App/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/css/fontello.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-365">
@@ -569,13 +601,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/css/todos.css" />
-    <entry file="file://$PROJECT_DIR$/Todo-App/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/node_modules/uglify-js/node_modules/source-map/build/mini-require.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,13 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3300">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Todo-App/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-849">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -672,13 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="582" column="4" lean-forward="false" selection-start-line="582" selection-start-column="4" selection-end-line="582" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Todo-App/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2178">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -765,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,9 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,14 +797,142 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Todo-WebApp/testNode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="176">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-App/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-App/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-App/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-App/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="389" column="0" lean-forward="false" selection-start-line="389" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
+          <folding>
+            <element signature="e#1347#1506#0" expanded="false" />
+            <element signature="e#1357#1388#0" expanded="false" />
+            <element signature="e#1431#1450#0" expanded="false" />
+            <element signature="e#1578#1656#0" expanded="false" />
+            <element signature="e#1707#2775#0" expanded="false" />
+            <element signature="e#1759#1772#0" expanded="false" />
+            <element signature="e#1843#1860#0" expanded="false" />
+            <element signature="e#1912#2153#0" expanded="false" />
+            <element signature="e#2163#2179#0" expanded="false" />
+            <element signature="e#2235#2419#0" expanded="false" />
+            <element signature="e#2604#2620#0" expanded="false" />
+            <element signature="e#2659#2675#0" expanded="false" />
+            <element signature="e#2714#2733#0" expanded="false" />
+            <element signature="e#2839#3386#0" expanded="false" />
+            <element signature="e#3422#3808#0" expanded="false" />
+            <element signature="e#3477#3801#0" expanded="false" />
+            <element signature="e#3524#3543#0" expanded="false" />
+            <element signature="e#3650#3658#0" expanded="false" />
+            <element signature="e#3719#3789#0" expanded="false" />
+            <element signature="e#4208#4249#0" expanded="false" />
+            <element signature="e#5050#5190#0" expanded="false" />
+            <element signature="e#5243#5322#0" expanded="false" />
+            <element signature="e#5466#5638#0" expanded="false" />
+            <element signature="e#5682#5859#0" expanded="false" />
+            <element signature="e#5725#5849#0" expanded="false" />
+            <element signature="e#6672#6745#0" expanded="false" />
+            <element signature="e#6801#6847#0" expanded="false" />
+            <element signature="e#7009#7225#0" expanded="false" />
+            <element signature="e#7019#7048#0" expanded="false" />
+            <element signature="e#7119#7130#0" expanded="false" />
+            <element signature="e#7172#7190#0" expanded="false" />
+            <element signature="e#7261#7515#0" expanded="false" />
+            <element signature="e#7336#7508#0" expanded="false" />
+            <element signature="e#7554#7738#0" expanded="false" />
+            <element signature="e#7564#7576#0" expanded="false" />
+            <element signature="e#7651#7669#0" expanded="false" />
+            <element signature="e#7779#9958#0" expanded="false" />
+            <element signature="e#8822#8836#0" expanded="false" />
+            <element signature="e#8878#8891#0" expanded="false" />
+            <element signature="e#8973#9004#0" expanded="false" />
+            <element signature="e#9063#9080#0" expanded="false" />
+            <element signature="e#9151#9170#0" expanded="false" />
+            <element signature="e#9301#9323#0" expanded="false" />
+            <element signature="e#9377#9476#0" expanded="false" />
+            <element signature="e#9527#9896#0" expanded="false" />
+            <element signature="e#9600#9618#0" expanded="false" />
+            <element signature="e#10000#10361#0" expanded="false" />
+            <element signature="e#10053#10354#0" expanded="false" />
+            <element signature="e#10387#10440#0" expanded="false" />
+            <element signature="e#10481#10657#0" expanded="false" />
+            <element signature="e#11051#11680#0" expanded="false" />
+            <element signature="e#11126#11666#0" expanded="false" />
+            <element signature="e#11183#11656#0" expanded="false" />
+            <element signature="e#11525#11642#0" expanded="false" />
+            <element signature="e#11709#11827#0" expanded="false" />
+            <element signature="e#11853#11881#0" expanded="false" />
+            <element signature="e#11917#11987#0" expanded="false" />
+            <marker date="1487853758052" expanded="true" signature="4495:4513" ph="..." />
+            <marker date="1487853758052" expanded="false" signature="8115:8129" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo-App/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapDemo/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapDemo/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapDemo/jquery-3.1.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootstrapDemo/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4791">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding />
         </state>
       </provider>
